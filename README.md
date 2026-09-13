@@ -1,5 +1,5 @@
 # Shripathy
-<h2 align="left">Hi 👋! My name is shripathy and I'm a student, from Anna University</h2>
+<h2 align="left">Hi 👋! My name is shripathy and I'm a college student</h2>
 
 ###
 
